@@ -2,4 +2,6 @@
 
 Demostrar la capacidad de aplicar el pensamiento creativo —aumentado mediante el uso de herramientas de Inteligencia Artificial (IA)— para resolver, optimizar y comunicar una solución novedosa a un desafío específico en el estudio o desarrollo con Javascript.
 ---
-## Fase 1
+## Fase 1 (Identificación y pensamiento divergente)
+En el siguiente prompt se ha pedido explicar que es un callback en Javascript usando de ejemplo al videojuego Street Fighter
+
